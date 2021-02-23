@@ -1,4 +1,4 @@
-package com.contact;
+package com.contact_rohankumar_c0796383_android;
 
 import android.content.Context;
 import android.graphics.Color;
@@ -14,7 +14,7 @@ import androidx.annotation.NonNull;
 import androidx.fragment.app.Fragment;
 import androidx.navigation.fragment.NavHostFragment;
 
-import com.contact.data.Contact;
+import com.contact_rohankumar_c0796383_android.data.Contact;
 import com.google.android.material.snackbar.Snackbar;
 
 public class RecordFragment extends Fragment {

@@ -1,4 +1,4 @@
-package com.contact;
+package com.contact_rohankumar_c0796383_android;
 
 import android.Manifest;
 import android.content.pm.PackageManager;

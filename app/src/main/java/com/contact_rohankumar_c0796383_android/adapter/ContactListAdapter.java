@@ -1,4 +1,4 @@
-package com.contact.adapter;
+package com.contact_rohankumar_c0796383_android.adapter;
 
 import android.view.LayoutInflater;
 import android.view.View;
@@ -11,8 +11,8 @@ import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.contact.R;
-import com.contact.data.Contact;
+import com.contact_rohankumar_c0796383_android.R;
+import com.contact_rohankumar_c0796383_android.data.Contact;
 
 import java.util.ArrayList;
 import java.util.List;

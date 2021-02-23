@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.contact">
+    package="com.contact_rohankumar_c0796383_android">
 
     <uses-permission android:name="android.permission.CALL_PHONE" />
 
@@ -10,10 +10,10 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:name="com.contact.App"
+        android:name="com.contact_rohankumar_c0796383_android.App"
         android:theme="@style/Theme.Contact">
         <activity
-            android:name="com.contact.MainActivity"
+            android:name="com.contact_rohankumar_c0796383_android.MainActivity"
             android:label="@string/app_name"
             android:theme="@style/Theme.Contact.NoActionBar">
             <intent-filter>

@@ -1,10 +1,10 @@
-package com.contact;
+package com.contact_rohankumar_c0796383_android;
 
 import android.app.Application;
 
 import androidx.room.Room;
 
-import com.contact.data.AppDatabase;
+import com.contact_rohankumar_c0796383_android.data.AppDatabase;
 
 public class App extends Application {
 

@@ -1,4 +1,4 @@
-package com.contact.data;
+package com.contact_rohankumar_c0796383_android.data;
 
 import androidx.room.ColumnInfo;
 import androidx.room.Entity;

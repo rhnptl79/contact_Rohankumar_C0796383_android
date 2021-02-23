@@ -1,4 +1,4 @@
-package com.contact;
+package com.contact_rohankumar_c0796383_android;
 
 import android.Manifest;
 import android.app.AlertDialog;
@@ -21,8 +21,8 @@ import androidx.navigation.fragment.NavHostFragment;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.contact.adapter.ContactListAdapter;
-import com.contact.data.Contact;
+import com.contact_rohankumar_c0796383_android.adapter.ContactListAdapter;
+import com.contact_rohankumar_c0796383_android.data.Contact;
 
 public class MainFragment extends Fragment {
 
